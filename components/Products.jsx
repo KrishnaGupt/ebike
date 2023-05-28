@@ -22,7 +22,7 @@ export default function Products() {
           A healthy ride for everyone
         </h1>
       </div>
-      <div className="w-full justify-center flex flex-wrap">
+      <div className="w-full justify-center flex flex-wrap bg-white">
         {data &&
           data.map((doc, index) => (
             <Product
