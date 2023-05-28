@@ -24,7 +24,7 @@ export default function Product() {
     getData();
   });
   return (
-    <section className="body-font overflow-hidden">
+    <section className="body-font overflow-hidden bg-white">
       <div className="container px-5 pt-16 pb-24 sm:pt-24 mx-auto">
         <div className="lg:w-[95%] mx-auto flex flex-wrap">
           <img
