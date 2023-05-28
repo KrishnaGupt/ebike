@@ -24,7 +24,7 @@ export default function Products() {
       </div>
       <div>
         <div className="body-font">
-          <div className="container px-5 mx-auto">
+          <div className="container px-5 mx-auto bg-white">
             <div className="flex flex-wrap">
               {data &&
                 data.map((doc, index) => (
